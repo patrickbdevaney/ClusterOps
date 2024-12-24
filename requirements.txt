@@ -1,5 +1,5 @@
 loguru
-ray
+git+https://github.com/ray-project/ray.git@master#egg=ray
 GPUtil
 tenacity
 psutil
