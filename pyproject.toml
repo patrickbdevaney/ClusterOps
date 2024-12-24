@@ -24,7 +24,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.10"
 loguru = "*"
-ray = "^2.40.0"
+ray = "2.36.0
 gputil = "*"
 tenacity = "*"
 psutil = "*"
