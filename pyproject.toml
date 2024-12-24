@@ -24,7 +24,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.10"
 loguru = "*"
-ray = "*"
+ray = { git = "https://github.com/ray-project/ray.git", branch = "master" }
 gputil = "*"
 tenacity = "*"
 psutil = "*"
