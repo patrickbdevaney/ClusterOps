@@ -1,5 +1,5 @@
 loguru
-ray>=2.36.0,<2.40.0
+ray @ https://github.com/ray-project/ray/archive/refs/tags/2.36.0.zip
 GPUtil
 tenacity
 psutil
