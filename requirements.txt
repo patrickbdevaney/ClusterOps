@@ -1,5 +1,5 @@
 loguru
-ray==2.36.0
+ray>=2.36.0,<2.40.0
 GPUtil
 tenacity
 psutil
